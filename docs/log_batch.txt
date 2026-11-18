@@ -1,0 +1,13 @@
+[PERINGATAN] baris 14: 'jumlah' minimal 0, dapat: -3 -> dilewati
+[PERINGATAN] baris 15: 'harga_satuan' harus bilangan bulat, dapat: 'seratus' -> dilewati
+[PERINGATAN] baris 16: kondisi 'hancur' tidak valid, pilih: ['baik', 'rusak berat', 'rusak ringan'] -> dilewati
+[PERINGATAN] baris 17: 'kode_barang' tidak boleh kosong -> dilewati
+[INFO] kode duplikat dibuang: PC-001
+Data dimuat: 11 barang valid, 4 baris ditolak.
+Tersimpan: data/output/laporan_rekap.json
+Tersimpan: data/output/inventaris_bersih.csv
+Tersimpan: data/output/stok_menipis.csv
+Jaringan     jenis=3   unit=8    nilai=Rp 62.950.000
+Komputer     jenis=3   unit=40   nilai=Rp 277.500.000
+Multimedia   jenis=1   unit=0    nilai=Rp 0
+Periferal    jenis=4   unit=77   nilai=Rp 52.670.000

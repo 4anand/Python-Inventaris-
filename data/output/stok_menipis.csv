@@ -1,0 +1,4 @@
+kode_barang,nama_barang,kategori,jumlah,kondisi,lokasi,harga_satuan
+MS-001,Mouse Optik,Periferal,2,baik,Lab 2,85000
+CB-001,Kabel UTP Cat6 (roll),Jaringan,1,baik,Gudang,950000
+PJ-001,Proyektor Epson,Multimedia,0,rusak berat,Gudang,5000000

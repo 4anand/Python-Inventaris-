@@ -1,0 +1,43 @@
+{
+  "jumlah_jenis_barang": 11,
+  "total_nilai_aset": 393120000,
+  "rata_rata_harga_satuan": 4462272.73,
+  "lokasi": [
+    "Gudang",
+    "Lab 1",
+    "Lab 2",
+    "Lab Jaringan"
+  ],
+  "rekap_per_kategori": {
+    "Komputer": {
+      "jenis": 3,
+      "total_unit": 40,
+      "nilai_aset": 277500000
+    },
+    "Periferal": {
+      "jenis": 4,
+      "total_unit": 77,
+      "nilai_aset": 52670000
+    },
+    "Jaringan": {
+      "jenis": 3,
+      "total_unit": 8,
+      "nilai_aset": 62950000
+    },
+    "Multimedia": {
+      "jenis": 1,
+      "total_unit": 0,
+      "nilai_aset": 0
+    }
+  },
+  "stok_menipis": [
+    "MS-001",
+    "CB-001",
+    "PJ-001"
+  ],
+  "kondisi_rusak": [
+    "PC-002",
+    "MN-002",
+    "PJ-001"
+  ]
+}

@@ -1,0 +1,14 @@
+=== 1. Reproduksi bug: filter menghasilkan list kosong ===
+Traceback (most recent call last):
+  File "/home/claude/inventaris-lab/docs/debug_demo.py", line 21, in <module>
+    rata_rata_harga_BUGGY(data_kosong)
+  File "/home/claude/inventaris-lab/docs/debug_demo.py", line 15, in rata_rata_harga_BUGGY
+    return sum(r["harga_satuan"] for r in records) / len(records)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~
+ZeroDivisionError: division by zero
+
+=== 2. Langkah debugging ===
+len(records) di baris pembagi = 0 -> pembagi 0
+
+=== 3. Setelah perbaikan (guard 'if not records') ===
+rata_rata_harga([]) = 0.0

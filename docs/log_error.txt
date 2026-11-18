@@ -1,0 +1,6 @@
+[ERROR] File tidak ditemukan: tidak_ada.csv
+exit code: 2
+[ERROR] Format data salah: data/input/header_salah.csv: header kurang kolom ['kategori', 'jumlah', 'kondisi', 'lokasi', 'harga_satuan']
+exit code: 3
+[ERROR] Format data salah: data/input/rusak.json: JSON tidak valid (Expecting value: line 1 column 18 (char 17))
+exit code: 3

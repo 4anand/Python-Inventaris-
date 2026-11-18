@@ -1,0 +1,22 @@
+test_dedup (tests.test_app.TestAnalysis.test_dedup) ... ok
+test_edge_data_kosong (tests.test_app.TestAnalysis.test_edge_data_kosong) ... ok
+test_edge_stok_nol (tests.test_app.TestAnalysis.test_edge_stok_nol) ... ok
+test_recap (tests.test_app.TestAnalysis.test_recap) ... ok
+test_search_case_insensitive (tests.test_app.TestAnalysis.test_search_case_insensitive) ... ok
+test_csv_contoh (tests.test_app.TestIO.test_csv_contoh) ... ok
+test_ekstensi_tak_didukung (tests.test_app.TestIO.test_ekstensi_tak_didukung) ... ok
+test_file_tidak_ada (tests.test_app.TestIO.test_file_tidak_ada) ... ok
+test_header_salah_dan_json_rusak (tests.test_app.TestIO.test_header_salah_dan_json_rusak) ... ok
+test_roundtrip_json (tests.test_app.TestIO.test_roundtrip_json) ... ok
+test_simpan_ekstensi_salah (tests.test_app.TestTambah.test_simpan_ekstensi_salah) ... ok
+test_simpan_lalu_baca_kembali (tests.test_app.TestTambah.test_simpan_lalu_baca_kembali) ... ok
+test_tambah_berhasil_tanpa_ubah_list_asal (tests.test_app.TestTambah.test_tambah_berhasil_tanpa_ubah_list_asal) ... ok
+test_tambah_kode_ganda_ditolak (tests.test_app.TestTambah.test_tambah_kode_ganda_ditolak) ... ok
+test_input_salah (tests.test_app.TestValidation.test_input_salah) ... ok
+test_kolom_hilang (tests.test_app.TestValidation.test_kolom_hilang) ... ok
+test_normalisasi (tests.test_app.TestValidation.test_normalisasi) ... ok
+
+----------------------------------------------------------------------
+Ran 17 tests in 0.003s
+
+OK

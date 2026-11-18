@@ -1,0 +1,5 @@
+> Berhasil menambah LP-010 - Laptop Dosen.
+> Simpan ke /tmp/demo2.csv sekarang? (y/n): 
+> Gagal menambah: kode 'LP-010' sudah ada
+> Gagal menambah: 'jumlah' harus bilangan bulat, dapat: 'abc'
+> Data (12 barang) tersimpan ke /tmp/demo2.csv

@@ -1,0 +1,44 @@
+[PERINGATAN] baris 14: 'jumlah' minimal 0, dapat: -3 -> dilewati
+[PERINGATAN] baris 15: 'harga_satuan' harus bilangan bulat, dapat: 'seratus' -> dilewati
+[PERINGATAN] baris 16: kondisi 'hancur' tidak valid, pilih: ['baik', 'rusak berat', 'rusak ringan'] -> dilewati
+[PERINGATAN] baris 17: 'kode_barang' tidak boleh kosong -> dilewati
+[INFO] kode duplikat dibuang: PC-001
+Data dimuat: 11 barang valid, 4 baris ditolak.
+
+=== INVENTARIS LAB ===
+1. Tampilkan semua barang
+2. Cari barang (nama)
+3. Filter (kondisi / kategori / lokasi)
+4. Rekap per kategori
+5. Stok menipis
+6. Ringkasan (total aset, rata-rata, lokasi)
+0. Keluar
+Pilih menu: Kata kunci nama: kode_barang | nama_barang         | kategori  | jumlah | kondisi     | lokasi
+------------+---------------------+-----------+--------+-------------+-------
+MN-001      | Monitor LED 24 inci | Periferal | 25     | baik        | Lab 1 
+MN-002      | Monitor LED 19 inci | Periferal | 10     | rusak berat | Gudang
+
+=== INVENTARIS LAB ===
+1. Tampilkan semua barang
+2. Cari barang (nama)
+3. Filter (kondisi / kategori / lokasi)
+4. Rekap per kategori
+5. Stok menipis
+6. Ringkasan (total aset, rata-rata, lokasi)
+0. Keluar
+Pilih menu: Batas stok [2]:   Input salah: 'input' harus bilangan bulat, dapat: 'abc'. Coba lagi.
+Batas stok [2]: kode_barang | nama_barang           | kategori   | jumlah | kondisi     | lokasi
+------------+-----------------------+------------+--------+-------------+-------
+MS-001      | Mouse Optik           | Periferal  | 2      | baik        | Lab 2 
+CB-001      | Kabel UTP Cat6 (roll) | Jaringan   | 1      | baik        | Gudang
+PJ-001      | Proyektor Epson       | Multimedia | 0      | rusak berat | Gudang
+
+=== INVENTARIS LAB ===
+1. Tampilkan semua barang
+2. Cari barang (nama)
+3. Filter (kondisi / kategori / lokasi)
+4. Rekap per kategori
+5. Stok menipis
+6. Ringkasan (total aset, rata-rata, lokasi)
+0. Keluar
+Pilih menu: Sampai jumpa.

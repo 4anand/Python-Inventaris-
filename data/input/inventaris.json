@@ -1,0 +1,4 @@
+[
+  {"kode_barang":"AP-001","nama_barang":"Access Point TP-Link","kategori":"Jaringan","jumlah":6,"kondisi":"baik","lokasi":"Lab Jaringan","harga_satuan":750000},
+  {"kode_barang":"AP-002","nama_barang":"Access Point Ubiquiti","kategori":"Jaringan","jumlah":2,"kondisi":"rusak ringan","lokasi":"Lab Jaringan","harga_satuan":1800000}
+]

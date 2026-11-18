@@ -1,0 +1,13 @@
+kode_barang,nama_barang,kategori,jumlah,kondisi,lokasi,harga_satuan
+PC-001,PC Desktop Core i5,Komputer,20,baik,Lab 1,7500000
+PC-002,PC Desktop Core i3,Komputer,15,rusak ringan,Lab 2,5500000
+LP-001,Laptop Praktikum,Komputer,5,baik,Lab 1,9000000
+MN-001,Monitor LED 24 inci,Periferal,25,baik,Lab 1,1500000
+MN-002,Monitor LED 19 inci,Periferal,10,rusak berat,Gudang,900000
+KB-001,Keyboard USB,Periferal,40,baik,Lab 2,150000
+MS-001,Mouse Optik,Periferal,2,baik,Lab 2,85000
+SW-001,Switch Cisco 2960,Jaringan,4,baik,Lab Jaringan,6500000
+RT-001,Router Cisco 1941,Jaringan,3,baik,Lab Jaringan,12000000
+CB-001,Kabel UTP Cat6 (roll),Jaringan,1,baik,Gudang,950000
+PJ-001,Proyektor Epson,Multimedia,0,rusak berat,Gudang,5000000
+PC-003,Pc Desktop Core i9,komputer,7,baik,lab 1,20000000
