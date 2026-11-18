@@ -75,4 +75,4 @@ File tidak ada, header kurang, JSON rusak, ekstensi tak didukung, baris invalid,
   bantuan Claude (Anthropic). Seluruh kode dijalankan, diuji, dan dipelajari oleh mahasiswa.
 
 ## Link Demo
-URL repository: **(isi URL GitHub di sini)**
+URL repository: (https://github.com/4anand/Python-Inventaris-.git)
